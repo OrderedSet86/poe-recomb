@@ -1,0 +1,38 @@
+Item Class: One Hand Axes
+Rarity: Rare
+Beast Mangler
+Reaver Axe
+--------
+One Handed Axe
+Quality: +20% (augmented)
+Physical Damage: 215-568 (augmented)
+Elemental Damage: 16-33 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.20
+Weapon Range: 1.1 metres
+--------
+Requirements:
+Level: 70
+Str: 167
+Dex: 57
+--------
+Sockets: R-R-R 
+--------
+Item Level: 85
+--------
+21% increased Physical Damage (enchant)
+--------
+{ Prefix Modifier "Essences" — Damage, Physical, Attack }
+Adds 23(20-26) to 47(40-47) Physical Damage
+{ Prefix Modifier "Frigid" (Tier: 7) — Damage, Elemental, Cold, Attack }
+Adds 16(16-21) to 33(31-37) Cold Damage
+{ Master Crafted Prefix Modifier "Upgraded" (Rank: 4) — Damage, Physical, Attack }
+124(100-129)% increased Physical Damage (crafted)
+{ Suffix Modifier "of the Titan" (Tier: 2) — Attribute }
++49(43-50) to Strength
+{ Suffix Modifier "of the Elder" (Tier: 1) — Damage, Physical, Attack }
+49(30-49)% increased Physical Damage
+Hits with this Weapon have Culling Strike against Bleeding Enemies — Unscalable Value
+(Culling Strike means enemies that are on 10% or lower life after your Hit are Killed)
+--------
+Elder Item

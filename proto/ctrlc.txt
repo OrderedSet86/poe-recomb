@@ -1,0 +1,32 @@
+Item Class: One Hand Axes
+Rarity: Rare
+Beast Mangler
+Reaver Axe
+--------
+One Handed Axe
+Quality: +20% (augmented)
+Physical Damage: 215-568 (augmented)
+Elemental Damage: 16-33 (augmented)
+Critical Strike Chance: 5.00%
+Attacks per Second: 1.20
+Weapon Range: 1.1 metres
+--------
+Requirements:
+Level: 70
+Str: 167
+Dex: 57
+--------
+Sockets: R-R-R 
+--------
+Item Level: 85
+--------
+21% increased Physical Damage (enchant)
+--------
++49 to Strength
+49% increased Physical Damage
+Adds 23 to 47 Physical Damage
+Adds 16 to 33 Cold Damage
+Hits with this Weapon have Culling Strike against Bleeding Enemies
+124% increased Physical Damage (crafted)
+--------
+Elder Item
