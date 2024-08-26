@@ -44,7 +44,7 @@ class PoEMod:
                 return k
 
     def stringDescription(self):
-        return '|'.join([e.description for e in self.effects])
+        return '\n'.join([e.description for e in self.effects])
 
     def __hash__(self):
         return hash(self.stringDescription())

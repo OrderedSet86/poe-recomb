@@ -50,15 +50,15 @@ if __name__ == '__main__':
         item1 = parseItem(input1, 'REPL')
         item2 = parseItem(input2, 'REPL')
         
-        output_to_percent = recombineItems(item1, item2, valuable_mods)
-        pprintRecombinatorOutcomes(
-            output_to_percent,
-            (
-                item1.getValuableCount(valuable_mods),
-                item2.getValuableCount(valuable_mods),
-            ),
-            compression_level=3
-        )
+        # output_to_percent = recombineItems(item1, item2, valuable_mods)
+        # pprintRecombinatorOutcomes(
+        #     output_to_percent,
+        #     (
+        #         item1.getValuableCount(valuable_mods),
+        #         item2.getValuableCount(valuable_mods),
+        #     ),
+        #     compression_level=3
+        # )
         
         cprint('-----------------------------------------------------------------------------', 'yellow')
         cprint('Output (Alt+Ctrl+C -> Ctrl+V -> Ctrl+D):', 'yellow')
